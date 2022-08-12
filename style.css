@@ -39,6 +39,9 @@ main {
     overflow-y: hidden;
 }
 
+
+/*gestion du responsive*/
+
 @media (max-width: 768px) {
     .side-bar {
         display: none;
