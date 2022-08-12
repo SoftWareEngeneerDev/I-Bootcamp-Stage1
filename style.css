@@ -12,6 +12,9 @@ body {
 
 /* header section*/
 
+
+/*mise en forme de python*/
+
 .header {
     display: flex;
     justify-content: space-between;
